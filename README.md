@@ -6,9 +6,17 @@
 
 ---
 
-## 🌐 About [oyren.dev](https://oyren.dev)
+## 🌐 About [oyren.ai](https://oyren.ai)
 
-> **oyren.dev** is a browser-based AI development platform that helps you build, test, and refine code faster using multiple AI models — no switching between tools, no file uploads. It’s designed for rapid prototyping and real-time code feedback, all in the browser.
+The academic IDE for reading papers, OCR scan to generate LateX, creating custom agents and chatting with them about your papers — without leaving your window.
+
+Oyren is available two ways:
+
+- **Desktop app** (this repo) — macOS, Windows, and Linux
+- **Web app** — [oyren.ai](https://oyren.ai), in the browser, with OCR for scanned PDFs
+
+Both share the same workspaces and AI providers, so you can switch between them on the same documents.
+
 
 **Oyren Prompter** is a companion utility for oyren.dev to help users easily construct prompts from their codebase and use them with AI tools.
 
